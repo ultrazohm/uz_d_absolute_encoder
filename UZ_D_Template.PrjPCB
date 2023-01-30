@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Default
 
 [Preferences]
 PrefsVaultGUID=
@@ -155,7 +156,8 @@ UniqueID=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=1
+Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
