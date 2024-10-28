@@ -51,7 +51,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=UZ_D_Template.PcbDoc
+DocumentPath=UZ_D_ENDAT.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -68,7 +68,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EUTONNES
 
 [Document2]
-DocumentPath=UZ_D_Template.Annotation
+DocumentPath=UZ_D_ENDAT.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,6 +152,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=Encoder_Interface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EUXZOGJD
+
+[Document8]
+DocumentPath=Encoder_Interface.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
@@ -162,24 +196,24 @@ Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Author
-Value=A. Musterfrau
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=AuthorParam
-Value=A. Musterfrau
+Name=ProjectNameCustom
+Value=UZ_D_ENDAT
 
 [Parameter3]
 Name=FinDate
-Value=02/23
+Value=11/24
 
 [Parameter4]
-Name=ProjectNameCustom
-Value=UZ_D_Template
+Name=AuthorParam
+Value=T. Gaupp
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=T. Gaupp
 
 [Configuration1]
 Name=Sources
