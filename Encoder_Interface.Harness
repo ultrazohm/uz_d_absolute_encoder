@@ -1,1 +1,1 @@
-Encoder_Signals=Z_encoder,A_encoder,B_encoder
+Encoder_Signals=Clock +,Clock -,Data +,Data -,Up (Power),Un (Ground),Up* (Power),Un* (Ground)

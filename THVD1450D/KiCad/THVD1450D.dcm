@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP THVD1450D
+D 3.3-V to 5-V RS-485 transceiver with +/-18-kV IEC ESD protection
+K
+F http://www.ti.com/lit/gpn/THVD1450
+$ENDCMP
+#
+#End Doc Library
