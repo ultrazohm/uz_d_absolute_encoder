@@ -281,24 +281,24 @@ Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Author
-Value=T. Gaupp
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=AuthorParam
-Value=T. Gaupp
+Name=ProjectNameCustom
+Value=UZ_D_ENDAT
 
 [Parameter3]
 Name=FinDate
 Value=11/24
 
 [Parameter4]
-Name=ProjectNameCustom
-Value=UZ_D_ENDAT
+Name=AuthorParam
+Value=T. Gaupp
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=T. Gaupp
 
 [Configuration1]
 Name=Sources
