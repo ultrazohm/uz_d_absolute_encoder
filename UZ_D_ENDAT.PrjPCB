@@ -276,29 +276,36 @@ UniqueId=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
+VariationCount=4
 Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart=
+Variation2=Designator=F1|UniqueId=\LGUSEKVC\SKTWDELL|Kind=1|AlternatePart=
+Variation3=Designator=R8|UniqueId=\LGUSEKVC\UJRMMZVL|Kind=1|AlternatePart=
+Variation4=Designator=D1|UniqueId=\LGUSEKVC\UXYDREUW|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UZ_D_ENDAT\Design Rule Check - UZ_D_ENDAT.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=T. Gaupp
 
 [Parameter2]
-Name=ProjectNameCustom
-Value=UZ_D_ENDAT
+Name=AuthorParam
+Value=T. Gaupp
 
 [Parameter3]
 Name=FinDate
 Value=11/24
 
 [Parameter4]
-Name=AuthorParam
-Value=T. Gaupp
+Name=ProjectNameCustom
+Value=UZ_D_ENDAT
 
 [Parameter5]
-Name=Author
-Value=T. Gaupp
+Name=ProjectRevision
+Value=Rev01
 
 [Configuration1]
 Name=Sources
