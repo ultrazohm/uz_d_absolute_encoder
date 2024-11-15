@@ -1,9 +1,0 @@
-Manufacturer=Texas Instruments
-PartNumber=THVD1450D
-PartCategory=Integrated Circuit
-PackageCategory=Small Outline Packages
-PinCount=8
-Version=1.1
-Released=2021-10-25 12:40:13
-Downloaded=2024-10-29 07:36:54
-3D=Y
