@@ -276,7 +276,7 @@ UniqueId=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=10
 Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart=
 Variation2=Designator=F1|UniqueId=\LGUSEKVC\SKTWDELL|Kind=1|AlternatePart=
 Variation3=Designator=R8|UniqueId=\LGUSEKVC\UJRMMZVL|Kind=1|AlternatePart=
@@ -284,6 +284,9 @@ Variation4=Designator=D1|UniqueId=\LGUSEKVC\UXYDREUW|Kind=1|AlternatePart=
 Variation5=Designator=R28A|UniqueId=\1BEQCHHZR\SKLHEDMN|Kind=1|AlternatePart=
 Variation6=Designator=R28B|UniqueId=\2BEQCHHZR\SKLHEDMN|Kind=1|AlternatePart=
 Variation7=Designator=R28C|UniqueId=\3BEQCHHZR\SKLHEDMN|Kind=1|AlternatePart=
+Variation8=Designator=X2A|UniqueId=\1BEQCHHZR\RICZXRUH|Kind=1|AlternatePart=
+Variation9=Designator=X2B|UniqueId=\2BEQCHHZR\RICZXRUH|Kind=1|AlternatePart=
+Variation10=Designator=X2C|UniqueId=\3BEQCHHZR\RICZXRUH|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -291,24 +294,24 @@ DocumentPath=Project Outputs for UZ_D_ENDAT\Design Rule Check - UZ_D_ENDAT.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=T. Gaupp
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=AuthorParam
-Value=T. Gaupp
+Name=ProjectNameCustom
+Value=UZ_D_ENDAT
 
 [Parameter3]
 Name=FinDate
 Value=11/24
 
 [Parameter4]
-Name=ProjectNameCustom
-Value=UZ_D_ENDAT
+Name=AuthorParam
+Value=T. Gaupp
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=T. Gaupp
 
 [Configuration1]
 Name=Sources
