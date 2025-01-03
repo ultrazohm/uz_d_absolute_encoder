@@ -294,24 +294,24 @@ DocumentPath=Project Outputs for UZ_D_ENDAT\Design Rule Check - UZ_D_ENDAT.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=T. Gaupp
 
 [Parameter2]
-Name=ProjectNameCustom
-Value=UZ_D_ENDAT
+Name=AuthorParam
+Value=T. Gaupp
 
 [Parameter3]
 Name=FinDate
 Value=11/24
 
 [Parameter4]
-Name=AuthorParam
-Value=T. Gaupp
+Name=ProjectNameCustom
+Value=UZ_D_ENDAT
 
 [Parameter5]
-Name=Author
-Value=T. Gaupp
+Name=ProjectRevision
+Value=Rev01
 
 [Configuration1]
 Name=Sources
