@@ -292,7 +292,7 @@ DocumentUniqueId=
 UniqueId=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
 AllowFabrication=0
-ParameterCount=0
+ParameterCount=1
 VariationCount=46
 Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart=
 Variation2=Designator=F1|UniqueId=\LGUSEKVC\SKTWDELL|Kind=1|AlternatePart=
@@ -342,27 +342,43 @@ Variation45=Designator=C5C|UniqueId=\3BEQCHHZR\VVGOCDMM|Kind=1|AlternatePart=
 Variation46=Designator=C6C|UniqueId=\3BEQCHHZR\CBKSOCYA|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[Parameter2_1]
+Name=ZC_vv
+Value=00
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for UZ_D_ENDAT\Design Rule Check - UZ_D_ENDAT.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01
+Name=ZC_vv
+Value=00
 
 [Parameter2]
+Name=ZC_PPP
+Value=017
+
+[Parameter3]
+Name=ZC_GGG
+Value=000
+
+[Parameter4]
+Name=ProjectRevision
+Value=01
+
+[Parameter5]
 Name=ProjectNameCustom
 Value=uz_d_absolute_encoder
 
-[Parameter3]
+[Parameter6]
 Name=FinDate
 Value=01/25
 
-[Parameter4]
+[Parameter7]
 Name=AuthorParam
 Value=T. Gaupp
 
-[Parameter5]
+[Parameter8]
 Name=Author
 Value=T. Gaupp
 
