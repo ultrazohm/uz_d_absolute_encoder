@@ -295,9 +295,9 @@ AllowFabrication=0
 ParameterCount=1
 VariationCount=46
 Variation1=Designator=R1|UniqueId=\LGUSEKVC\ZVDZXGAK|Kind=1|AlternatePart=
-Variation2=Designator=F1|UniqueId=\LGUSEKVC\SKTWDELL|Kind=1|AlternatePart=
-Variation3=Designator=R8|UniqueId=\LGUSEKVC\UJRMMZVL|Kind=1|AlternatePart=
-Variation4=Designator=D1|UniqueId=\LGUSEKVC\UXYDREUW|Kind=1|AlternatePart=
+Variation2=Designator=F1|UniqueId=\LGUSEKVC\SKTWDELL|Kind=0|AlternatePart=
+Variation3=Designator=R8|UniqueId=\LGUSEKVC\UJRMMZVL|Kind=0|AlternatePart=
+Variation4=Designator=D1|UniqueId=\LGUSEKVC\UXYDREUW|Kind=0|AlternatePart=
 Variation5=Designator=R28A|UniqueId=\1BEQCHHZR\SKLHEDMN|Kind=1|AlternatePart=
 Variation6=Designator=R28B|UniqueId=\2BEQCHHZR\SKLHEDMN|Kind=1|AlternatePart=
 Variation7=Designator=R28C|UniqueId=\3BEQCHHZR\SKLHEDMN|Kind=1|AlternatePart=
@@ -364,7 +364,7 @@ Value=000
 
 [Parameter4]
 Name=ProjectRevision
-Value=01
+Value=02
 
 [Parameter5]
 Name=ProjectNameCustom
@@ -372,15 +372,15 @@ Value=uz_d_absolute_encoder
 
 [Parameter6]
 Name=FinDate
-Value=01/25
+Value=05/25
 
 [Parameter7]
 Name=AuthorParam
-Value=T. Gaupp
+Value=TG/MH
 
 [Parameter8]
 Name=Author
-Value=T. Gaupp
+Value=TG/MH
 
 [Configuration1]
 Name=Sources
